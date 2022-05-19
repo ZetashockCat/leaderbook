@@ -1,0 +1,27 @@
+LEADERBOOK/COUNSELING PACKET ADJUSTMENT PROJECT:
+
+>simplify leaderbook
+->what needs to be there vs what doesn't
+->go thru each sheet and determine what information on each sheet needs
+->11 documents (for 11th SIG)
+->mostly trackers
+-->readiness page with tracker attachments
+-->training tracker (certifications,yearly certs)
+-->counselings
+-->perstat (scalable)
+-->SI listing for leader
+-->Evaluations (for higher echelon leadership)
+-->IMR tracker
+--->item name, serial
+--->
+
+-->sun never sets
+
+>counseling packet:
+->erb, counseling log/counselings, les, ppw, bio
+->most will come from soldier data sheets
+
+>soldier professional bio should be in soldier profile card
+>can also have personal biography ("tell me your story")
+
+>look into document data import/export
